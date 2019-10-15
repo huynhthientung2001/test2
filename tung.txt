@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Toi la tung
 123 QL 1k
 =======
 >>>>>>> parent of 505ef60... Lan 2
 =======
 >>>>>>> parent of 505ef60... Lan 2
+=======
+Toi la tung
+>>>>>>> parent of b547d7a... Lan 3
